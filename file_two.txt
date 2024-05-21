@@ -1,2 +1,3 @@
 My second file.
-changes to branch named firstadding second line 
+changes to branch named first
+adding second line 
