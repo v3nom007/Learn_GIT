@@ -1,3 +1,4 @@
 My second file.
 changes to branch named first
-adding second line 
+adding second line
+to understand diff 
